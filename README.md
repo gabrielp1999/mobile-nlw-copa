@@ -1,1 +1,1 @@
-# Aplicação mobile nlw copa feito em React Native
+# Aplicação mobile nlw copa, feito em React Native
