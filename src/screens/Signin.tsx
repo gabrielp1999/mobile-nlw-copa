@@ -4,7 +4,7 @@ import { Button } from "../Components/Button";
 import { Fontisto } from '@expo/vector-icons';
 import { useAuth } from '../hooks/useAuth';
 
-const Signin = () => {
+export const Signin = () => {
   const {signIn, user} = useAuth();
 
   return(
@@ -26,5 +26,3 @@ const Signin = () => {
     </Center>
   )
 }
-
-export default Signin;
