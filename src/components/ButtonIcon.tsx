@@ -1,5 +1,5 @@
 import { TouchableOpacity, TouchableOpacityProps } from "react-native";
-import {IconProps} from 'phosphor-react-native'
+import { IconProps } from "phosphor-react-native";
 import { useTheme } from "native-base";
 
 interface Props extends TouchableOpacityProps {
